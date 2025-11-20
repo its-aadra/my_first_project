@@ -1,2 +1,3 @@
-# my_first_project
-This project is related to Finance and Banking.
+# Banking_tool
+A project aimed at developing tools for banking and financial analysis.
+
