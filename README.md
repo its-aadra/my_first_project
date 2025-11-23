@@ -1,6 +1,6 @@
 # Financial_Investment_Assistant
 
-## Project Overview
+## Problem Statement and Objectives
 
 The Financial Investment recommender is a Python-based program (working prototype) that helps users make informed financial decisions. It divides the user's monthly salary into essential expenses, savings and investments. Based on the user's risk preference, it recommends suitable investment options such as Fixed Deposits (FD), Mutual Funds, Gold ETFs and Stocks.
 This program is especially useful for women who want to start investing wisely and manage their salary efficiently.
@@ -15,11 +15,11 @@ This program is especially useful for women who want to start investing wisely a
 
 ## Getting Started
 
-## Requirements
+### Prerequisites
 - Python 3.x installed on your system
 - No additional requirements required
 
-## Running the Program
+### Installation
 1. Download or clone the project files
 2. Open **terminal/command prompt**
 3. Navigate to the folder containing
@@ -42,8 +42,19 @@ This program is especially useful for women who want to start investing wisely a
 4. **Investable Amount Guidance -** Provides extra suggestions depending on how much can be invested.
 5. **Loop for Multiple Recommendations -** without restarting the program.
 
+## Repo Structure
+Financial-Investment-Recommender/
+│
+├── investment_recommender.py     # Main Python program
+├── README.md                     # Project documentation
+├── screenshots/                  # Output screenshots
+│     └── result_example.png
+└── project_report.pdf            # Detailed report 
 
-## Sample Screenshots
+## Data Set Source and Citation
+- This project does not use any external dataset. All calculations and recommendations are generated programmatically based on user input.
+
+## Results / Screenshots
 
 1.**Menu Screen**
 
@@ -62,6 +73,9 @@ This program is especially useful for women who want to start investing wisely a
 
 ## Author
 -**Name:** Aadra Khattri
+
+## License
+- This project is licensed under the **MIT License** - free to use and modify for learning purposes
 
 
 
