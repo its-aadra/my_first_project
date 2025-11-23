@@ -64,9 +64,20 @@ Financial-Investment-Recommender/
 
 2.**Salary Input & 50-30-20 Breakdown**
 
+<img width="840" height="55" alt="salary_input" src="https://github.com/user-attachments/assets/04635932-d8b8-4120-a079-761ae9a1abb2" />
+
+<img width="662" height="112" alt="image" src="https://github.com/user-attachments/assets/3f8dae64-bbec-4db1-a98c-79d4767357b1" />
+
+
 3.**Recommended Investments**
 
+<img width="952" height="101" alt="recommendations" src="https://github.com/user-attachments/assets/60cf1f34-7974-4217-92a9-c04b227cef8f" />
+
+
 4.**Multiple Recommendation Loop**
+
+<img width="692" height="43" alt="image" src="https://github.com/user-attachments/assets/2b353da7-3269-4479-9df1-be5fb64324d1" />
+
 
 ## Future Enhancements 
 - Add a **Graphical User Interface (GUI)** for easier interaction.
