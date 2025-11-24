@@ -65,7 +65,7 @@ Financial-Investment-Recommender/
 2.**Salary Input & 50-30-20 Breakdown**
 
 ![Salary Input](./screenshots/salary_input.png)
-![50-30-20 Breakdown](./screenshots/salary_breakdown.png)
+![50-30-20 Breakdown](./screenshots/Salary_breakdown.png)
 
 
 3.**Recommended Investments**
