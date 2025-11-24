@@ -59,7 +59,7 @@ Financial-Investment-Recommender/
 1.**Menu Screen**
 
 
-<img width="691" height="176" alt="menu" src="https://github.com/user-attachments/assets/79b78426-ec46-490d-a44b-dfa53ba72cd1" />
+![Menu Screen](./screenshots/menu_screen.png)
 
 
 2.**Salary Input & 50-30-20 Breakdown**
