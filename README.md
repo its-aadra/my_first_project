@@ -87,7 +87,8 @@ Financial-Investment-Recommender/
 - After getting best recommendation, display **step by step procedure** to apply for the investment.
 
 ## Author
--**Name:** Aadra Khattri
+-## **Name:** Aadra Khattri
+-## **Reg. No. :** 25BAI11012
 
 ## License
 - This project is licensed under the **MIT License** - free to use and modify for learning purposes
