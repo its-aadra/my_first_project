@@ -59,7 +59,7 @@ Financial-Investment-Recommender/
 1.**Menu Screen**
 
 
-<![Menu Screen](./screenshots/menu_screen.png)>
+![Menu Screen](./screenshots/menu.png)
 
 
 2.**Salary Input & 50-30-20 Breakdown**
